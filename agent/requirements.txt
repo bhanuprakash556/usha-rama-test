@@ -1,0 +1,5 @@
+langchain
+langchain-openrouter
+langchain-community
+duckduckgo-search
+ddgs
